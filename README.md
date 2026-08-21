@@ -1,6 +1,6 @@
 # Variable Bipolar Laboratory Power Supply
 
-![Final assembled PCB](images/final-assembled-board.jpg)
+![Final assembled PCB](images/final-assembled-board.png)
 
 A variable bipolar linear power supply designed as a practical **analog electronics, PCB design, manufacturing, assembly, and hardware validation project**.
 
