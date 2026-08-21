@@ -153,7 +153,7 @@ This step was particularly useful because the project was intended to become a p
 
 The manufacturing files were generated from KiCad and submitted to **JLCPCB** for professional fabrication.
 
-![Manufactured PCB front and back](images/manufactured-pcb.jpg)
+![Manufactured PCB front and back](images/manufactured-pcb.png)
 
 The image above shows the actual manufactured PCBs exactly as received from JLCPCB, before component assembly.
 
@@ -182,7 +182,7 @@ The resulting physical boards also provided an opportunity to compare the origin
 
 After receiving the manufactured boards, the through-hole components were manually installed and soldered.
 
-![Final assembled PCB](images/final-assembled-board.jpg)
+![Final assembled PCB](images/final-assembled-board.png)
 
 The assembled board contains the complete regulation circuit, including:
 
@@ -411,11 +411,11 @@ The next revision will incorporate the lessons learned during the design, manufa
 
 ### Manufactured PCBs
 
-![Manufactured PCB front and back](images/manufactured-pcb.jpg)
+![Manufactured PCB front and back](images/manufactured-pcb.png)
 
 ### Final Assembled Hardware
 
-![Final assembled PCB](images/final-assembled-board.jpg)
+![Final assembled PCB](images/final-assembled-board.png)
 
 ---
 
